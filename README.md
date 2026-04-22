@@ -64,7 +64,7 @@ cd chatgpt2api
 ### 4. 运行
 
 ```bash
-docker compose up -d
+sudo docker compose up -d
 ```
 
 ![运行](./_resources/be9bb8cbf61b90a40033e0833d94c500.png)
